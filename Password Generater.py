@@ -1,11 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 #Password Generator Project
-
 
 import string
 import random
@@ -21,8 +15,6 @@ def password_generator(length=8):
 print("The Generated Password Is:")
 print(password_generator(12))
 
-
-# In[ ]:
 
 
 
